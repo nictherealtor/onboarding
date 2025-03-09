@@ -27,8 +27,8 @@
     },
     {
       "taskId": "task6",
-      "completed": true,
-      "completedDate": "2025-03-02"
+      "completed": false,
+      "completedDate": null
     },
     {
       "taskId": "task7",
