@@ -1,0 +1,9 @@
+[
+  {"id": "task1", "title": "Complete paperwork", "description": "Have agent sign all required documents", "daysFromStart": 0, "type": "admin"},
+  {"id": "task2", "title": "Setup email account", "description": "Create new company email address", "daysFromStart": 0, "type": "admin"},
+  {"id": "task3", "title": "Order business cards", "description": "Design and order business cards", "daysFromStart": 2, "type": "admin"},
+  {"id": "task4", "title": "Complete online training", "description": "Finish modules 1-3 of training course", "daysFromStart": 3, "type": "agent"},
+  {"id": "task5", "title": "Schedule mentorship session", "description": "Book initial mentorship meeting", "daysFromStart": 5, "type": "agent"},
+  {"id": "task6", "title": "Setup MLS access", "description": "Create MLS account and provide credentials", "daysFromStart": 1, "type": "admin"},
+  {"id": "task7", "title": "First client meeting", "description": "Shadow team leader with first client", "daysFromStart": 7, "type": "agent"}
+]
