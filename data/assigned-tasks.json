@@ -2,8 +2,8 @@
   "agent1": [
     {
       "taskId": "task1",
-      "completed": true,
-      "completedDate": "2025-03-08"
+      "completed": false,
+      "completedDate": null
     },
     {
       "taskId": "task2",
