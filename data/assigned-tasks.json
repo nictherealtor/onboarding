@@ -1,20 +1,76 @@
 {
   "agent1": [
-    {"taskId": "task1", "completed": true, "completedDate": "2025-03-01"},
-    {"taskId": "task2", "completed": true, "completedDate": "2025-03-01"},
-    {"taskId": "task3", "completed": false, "completedDate": null},
-    {"taskId": "task4", "completed": false, "completedDate": null},
-    {"taskId": "task5", "completed": false, "completedDate": null},
-    {"taskId": "task6", "completed": true, "completedDate": "2025-03-02"},
-    {"taskId": "task7", "completed": false, "completedDate": null}
+    {
+      "taskId": "task1",
+      "completed": false,
+      "completedDate": null
+    },
+    {
+      "taskId": "task2",
+      "completed": true,
+      "completedDate": "2025-03-01"
+    },
+    {
+      "taskId": "task3",
+      "completed": false,
+      "completedDate": null
+    },
+    {
+      "taskId": "task4",
+      "completed": false,
+      "completedDate": null
+    },
+    {
+      "taskId": "task5",
+      "completed": false,
+      "completedDate": null
+    },
+    {
+      "taskId": "task6",
+      "completed": true,
+      "completedDate": "2025-03-02"
+    },
+    {
+      "taskId": "task7",
+      "completed": false,
+      "completedDate": null
+    }
   ],
   "agent2": [
-    {"taskId": "task1", "completed": true, "completedDate": "2025-03-05"},
-    {"taskId": "task2", "completed": true, "completedDate": "2025-03-05"},
-    {"taskId": "task3", "completed": false, "completedDate": null},
-    {"taskId": "task4", "completed": false, "completedDate": null},
-    {"taskId": "task5", "completed": false, "completedDate": null},
-    {"taskId": "task6", "completed": false, "completedDate": null},
-    {"taskId": "task7", "completed": false, "completedDate": null}
+    {
+      "taskId": "task1",
+      "completed": true,
+      "completedDate": "2025-03-05"
+    },
+    {
+      "taskId": "task2",
+      "completed": true,
+      "completedDate": "2025-03-05"
+    },
+    {
+      "taskId": "task3",
+      "completed": false,
+      "completedDate": null
+    },
+    {
+      "taskId": "task4",
+      "completed": false,
+      "completedDate": null
+    },
+    {
+      "taskId": "task5",
+      "completed": false,
+      "completedDate": null
+    },
+    {
+      "taskId": "task6",
+      "completed": false,
+      "completedDate": null
+    },
+    {
+      "taskId": "task7",
+      "completed": false,
+      "completedDate": null
+    }
   ]
 }
